@@ -1,0 +1,36 @@
+"book_id","books_name","genre","popularity_rank"
+1,"The Da Vinci Code","mystery",1
+2,"gone girl","mystery",2
+11,"The Subtle Art of Not Giving a F*ck","Self-Help",3
+33,"Crime and Punishment","Literary Fiction",4
+32,"Anna Karenina","Classic",5
+31,"Wuthering Heights","Gothic Fiction",6
+30,"The Chronicles of Narnia","Fantasy",8
+29,"The Alchemist","Philosophical Fiction",9
+28,"The Da Vinci Code","Mystery",10
+27,"A Game of Thrones","Fantasy",11
+26,"The Hitchhiker's Guide to the Galaxy","Science Fiction",12
+25,"The Martian","Science Fiction",13
+24,"Jurassic Park","Science Fiction",14
+23,"The Silence of the Lambs","Psychological Thriller",15
+22,"The Shining","Horror",16
+34,"Moby-Dick","Adventure",17
+20,"The Fault in Our Stars","Young Adult",18
+21,"Gone with the Wind","Historical Fiction",19
+19,"The Hunger Games","Dystopian",20
+18,"The Lord of the Rings","Fantasy",21
+17,"The Hobbit","Fantasy",22
+15,"The Great Gatsby","Literary Fiction",23
+16,"Harry Potter and the Sorcerer's Stone","Fantasy",24
+14,"The Catcher in the Rye","Coming-of-Age",25
+13,"To Kill a Mockingbird","Classic",26
+10,"Steve Jobs","Biography",27
+12,"1984","Science Fiction",28
+9,"The Girl with the Dragon Tattoo","Thriller",29
+8,"Pride and Prejudice","Romance",30
+7,"Dune","Science Fiction",31
+5,"dune","science fiction",32
+6,"steve jobs","autobiography",33
+3,"big little lies","mystery",34
+4,"pride and the prejudice","romance",35
+35,"Les Misérables","Historical Fiction",7
